@@ -1,6 +1,8 @@
 # Fast React Pizza
 A fast, responsive pizza ordering web app built with React that allows users to browse the pizza menu, place an order, and view the status of their order. This app features dynamic menu loading, real-time order tracking, and a simple, modern UI for a seamless pizza-ordering experience.
 
+![image](https://github.com/user-attachments/assets/6c64d930-7a02-47ec-b074-c994bc71eebc)
+
 ### Demo
 You can check out the live demo here: [**Fast React Pizza Demo**](https://fast-react-pizza-ebon-theta.vercel.app/)
 
